@@ -74,3 +74,8 @@ cat<<EOF > /etc/passwd
 ![image](https://user-images.githubusercontent.com/52622597/210208439-40bfb762-193d-4ecd-96db-6060bfbc0a5a.png)
 
 
+# 什么是协议
+https://www.youtube.com/watch?v=d-zn-wv4Di8
+
+# 什么是文件格式
+https://www.youtube.com/watch?v=VVdmmN0su6E
