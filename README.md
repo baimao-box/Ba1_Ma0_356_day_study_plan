@@ -23,3 +23,5 @@ python逃逸
 [这也行，漏洞挖掘之账号接管](https://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337)
 
 [地图存储型xss](https://hamzadzworm.medium.com/how-i-got-a-bug-that-leads-to-takeover-accounts-of-any-user-who-view-my-profile-913c8704f6cd)
+
+[多邻国英语学习](./english)
