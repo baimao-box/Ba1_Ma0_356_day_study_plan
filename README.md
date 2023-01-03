@@ -15,3 +15,11 @@ python逃逸
 ```
 # Day2
 [编写了一个生成shell的工具](https://github.com/baimao-box/cat_rev_shell)
+
+[xss漏洞挖掘学习](https://aidilarf.medium.com/stored-xss-at-https-www-tiktok-com-11fed6db0590)
+
+[CVE-2022-38627利用和原理学习](https://infosecwriteups.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6)
+
+[这也行，漏洞挖掘之账号接管](https://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337)
+
+[地图存储型xss](https://hamzadzworm.medium.com/how-i-got-a-bug-that-leads-to-takeover-accounts-of-any-user-who-view-my-profile-913c8704f6cd)
