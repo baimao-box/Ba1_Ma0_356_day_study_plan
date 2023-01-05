@@ -31,3 +31,10 @@ python逃逸
 [多邻国英语学习](./english)
 
 休息
+
+# Day4
+
+[Java学习](https://www.youtube.com/watch?v=eIrMbAQSU34)
+
+
+
